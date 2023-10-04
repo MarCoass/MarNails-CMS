@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/blueprints/styles/link.yaml',
-    'modified' => 1696384672,
+    'modified' => 1696453786,
     'data' => [
         'name' => 'Link Colors',
         'description' => 'Link colors for the Helium theme',

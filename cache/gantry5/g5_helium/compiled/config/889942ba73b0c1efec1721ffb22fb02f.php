@@ -1,25 +1,25 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696386809,
-    'checksum' => '0fe6a69041428a3a510654fa5e789cfb',
+    'timestamp' => 1696456334,
+    'checksum' => '3b214b46cefd36ef67bbe74bd6bd7036',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696386722
+                'modified' => 1696453786
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696386722
+                'modified' => 1696453786
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
-                'modified' => 1696385900
+                'modified' => 1696453786
             ],
             'styles' => [
                 'file' => 'templates/g5_helium/custom/config/12/styles.yaml',
-                'modified' => 1696386696
+                'modified' => 1696453786
             ]
         ]
     ],
