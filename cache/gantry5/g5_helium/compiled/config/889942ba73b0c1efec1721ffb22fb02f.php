@@ -1,32 +1,32 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696385010,
-    'checksum' => '0eebcecff7812009ebd3119ed77c758e',
+    'timestamp' => 1696386708,
+    'checksum' => 'bda8ac6ac0b67aff82fecef224eff1ac',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696384672
+                'modified' => 1696386595
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696384672
+                'modified' => 1696386595
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
-                'modified' => 1696385010
+                'modified' => 1696385900
             ],
             'styles' => [
                 'file' => 'templates/g5_helium/custom/config/12/styles.yaml',
-                'modified' => 1696384954
+                'modified' => 1696386696
             ]
         ]
     ],
     'data' => [
         'index' => [
-            'name' => 'default',
-            'timestamp' => 1696384672,
+            'name' => '12',
+            'timestamp' => 1696386595,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -258,9 +258,46 @@ return [
             ],
             'content' => [
                 'logo-9608' => [
-                    'title' => 'Logo / Image'
+                    'title' => 'Logo / Image',
+                    'attributes' => [
+                        'image' => 'gantry-media://LogoNails-violeta.svg',
+                        'link' => '0',
+                        'svg' => ''
+                    ]
                 ],
                 'social-3171' => [
+                    'attributes' => [
+                        'css' => [
+                            'class' => ''
+                        ],
+                        'items' => [
+                            0 => [
+                                'icon' => 'fa fa-twitter fa-fw',
+                                'text' => '',
+                                'link' => 'http://www.twitter.com/rockettheme',
+                                'name' => 'Twitter'
+                            ],
+                            1 => [
+                                'icon' => 'fa fa-facebook fa-fw',
+                                'text' => '',
+                                'link' => 'http://www.facebook.com/RocketTheme',
+                                'name' => 'Facebook'
+                            ],
+                            2 => [
+                                'icon' => 'fa fa-google-plus fa-fw',
+                                'text' => '',
+                                'link' => 'https://plus.google.com/+rockettheme',
+                                'name' => 'Google+'
+                            ],
+                            3 => [
+                                'icon' => 'fa fa-pinterest',
+                                'text' => 'Pinterest',
+                                'title' => 'Pinterest',
+                                'link' => 'https://ar.pinterest.com/',
+                                'name' => 'Pinterest'
+                            ]
+                        ]
+                    ],
                     'block' => [
                         'class' => 'g-social-header'
                     ]
@@ -312,11 +349,32 @@ return [
         ],
         'page' => [
             'assets' => [
-                'favicon' => 'gantry-media://favicon.ico'
+                'favicon' => 'gantry-media://favicon.ico',
+                'touchicon' => ''
             ]
         ],
         'styles' => [
-            'preset' => 'preset1'
+            'preset' => 'preset1',
+            'base' => [
+                'background' => '#fae6ec',
+                'text-color' => '#af0883'
+            ],
+            'accent' => [
+                'color-1' => '#594bb3'
+            ],
+            'link' => [
+                'regular' => '#af0883',
+                'hover' => '#db1ba8'
+            ],
+            'navigation' => [
+                'background' => '#e891ab'
+            ],
+            'header' => [
+                'background' => '#e891ab'
+            ],
+            'footer' => [
+                'background' => '#e891ab'
+            ]
         ]
     ]
 ];

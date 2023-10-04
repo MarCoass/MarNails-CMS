@@ -1,25 +1,25 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696385010,
-    'checksum' => 'ec952efe6df678bc35df24c4ea8bca8a',
+    'timestamp' => 1696386724,
+    'checksum' => '38ea6a68a3eb72b8c33493242dda114e',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696384672
+                'modified' => 1696386722
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696384672
+                'modified' => 1696386722
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
-                'modified' => 1696385010
+                'modified' => 1696385900
             ],
             'styles' => [
                 'file' => 'templates/g5_helium/custom/config/12/styles.yaml',
-                'modified' => 1696384954
+                'modified' => 1696386696
             ]
         ],
         'templates/g5_helium/custom/config/default' => [
@@ -30,6 +30,22 @@ return [
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/default/layout.yaml',
                 'modified' => 1696384769
+            ],
+            'page/assets' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/assets.yaml',
+                'modified' => 1696385869
+            ],
+            'page/body' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/body.yaml',
+                'modified' => 1696385869
+            ],
+            'page/fontawesome' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/fontawesome.yaml',
+                'modified' => 1696385869
+            ],
+            'page/head' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/head.yaml',
+                'modified' => 1696385869
             ]
         ],
         'templates/g5_helium/config/default' => [
@@ -319,12 +335,12 @@ return [
                 'text-color' => '#424753'
             ],
             'accent' => [
-                'color-1' => '#4db2b3',
+                'color-1' => '#594bb3',
                 'color-2' => '#8f4dae'
             ],
             'base' => [
-                'background' => '#ffffff',
-                'text-color' => '#424753'
+                'background' => '#fae6ec',
+                'text-color' => '#af0883'
             ],
             'breakpoints' => [
                 'large-desktop-container' => '75rem',
@@ -346,11 +362,11 @@ return [
                 'family-title' => 'Lato, Helvetica, Tahoma, Geneva, Arial, sans-serif'
             ],
             'footer' => [
-                'background' => '#312f38',
+                'background' => '#e891ab',
                 'text-color' => '#ffffff'
             ],
             'header' => [
-                'background' => '#312f38',
+                'background' => '#e891ab',
                 'background-image' => 'gantry-media://header/img01.jpg',
                 'background-overlay' => 'enabled',
                 'text-color' => '#eceeef'
@@ -360,8 +376,8 @@ return [
                 'text-color' => '#424753'
             ],
             'link' => [
-                'regular' => '#4db2b3',
-                'hover' => '#424753'
+                'regular' => '#af0883',
+                'hover' => '#db1ba8'
             ],
             'menu' => [
                 'col-width' => '180px',
@@ -369,7 +385,7 @@ return [
                 'hide-on-mobile' => 0
             ],
             'navigation' => [
-                'background' => '#312f38',
+                'background' => '#e891ab',
                 'text-color' => '#ffffff'
             ],
             'offcanvas' => [
@@ -408,18 +424,36 @@ return [
                 'body_bottom' => ''
             ],
             'fontawesome' => [
-                'enable' => 1,
+                'enable' => '1',
                 'version' => 'fa4',
-                'fa4_compatibility' => 1,
-                'content_compatibility' => 1
+                'fa4_compatibility' => '1',
+                'content_compatibility' => '1',
+                'html_css_import' => '',
+                'html_js_import' => ''
             ],
             'assets' => [
-                'favicon' => 'gantry-media://favicon.ico'
+                'favicon' => 'gantry-media://favicon.ico',
+                'touchicon' => '',
+                'css' => [
+                    
+                ],
+                'javascript' => [
+                    
+                ]
+            ],
+            'head' => [
+                'meta' => [
+                    
+                ],
+                'head_bottom' => '',
+                'atoms' => [
+                    
+                ]
             ]
         ],
         'index' => [
-            'name' => 'default',
-            'timestamp' => 1696384672,
+            'name' => '12',
+            'timestamp' => 1696386722,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -651,9 +685,41 @@ return [
             ],
             'content' => [
                 'logo-9608' => [
-                    'title' => 'Logo / Image'
+                    'title' => 'Logo / Image',
+                    'attributes' => [
+                        'image' => 'gantry-media://LogoNails-violeta.svg',
+                        'link' => '0',
+                        'svg' => ''
+                    ]
                 ],
                 'social-3171' => [
+                    'attributes' => [
+                        'css' => [
+                            'class' => ''
+                        ],
+                        'display' => 'icons_only',
+                        'items' => [
+                            0 => [
+                                'icon' => 'fa fa-twitter fa-fw',
+                                'text' => '',
+                                'link' => 'http://www.twitter.com/rockettheme',
+                                'name' => 'Twitter'
+                            ],
+                            1 => [
+                                'icon' => 'fa fa-facebook fa-fw',
+                                'text' => '',
+                                'link' => 'http://www.facebook.com/RocketTheme',
+                                'name' => 'Facebook'
+                            ],
+                            2 => [
+                                'icon' => 'fa fa-pinterest',
+                                'text' => 'Pinterest',
+                                'title' => 'Pinterest',
+                                'link' => 'https://ar.pinterest.com/',
+                                'name' => 'Pinterest'
+                            ]
+                        ]
+                    ],
                     'block' => [
                         'class' => 'g-social-header'
                     ]

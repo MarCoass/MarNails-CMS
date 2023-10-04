@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/custom/config/12/layout.yaml',
-    'modified' => 1696384672,
+    'modified' => 1696386722,
     'data' => [
         'version' => 2,
         'preset' => [
@@ -171,9 +171,41 @@ return [
         ],
         'content' => [
             'logo-9608' => [
-                'title' => 'Logo / Image'
+                'title' => 'Logo / Image',
+                'attributes' => [
+                    'image' => 'gantry-media://LogoNails-violeta.svg',
+                    'link' => '0',
+                    'svg' => ''
+                ]
             ],
             'social-3171' => [
+                'attributes' => [
+                    'css' => [
+                        'class' => ''
+                    ],
+                    'display' => 'icons_only',
+                    'items' => [
+                        0 => [
+                            'icon' => 'fa fa-twitter fa-fw',
+                            'text' => '',
+                            'link' => 'http://www.twitter.com/rockettheme',
+                            'name' => 'Twitter'
+                        ],
+                        1 => [
+                            'icon' => 'fa fa-facebook fa-fw',
+                            'text' => '',
+                            'link' => 'http://www.facebook.com/RocketTheme',
+                            'name' => 'Facebook'
+                        ],
+                        2 => [
+                            'icon' => 'fa fa-pinterest',
+                            'text' => 'Pinterest',
+                            'title' => 'Pinterest',
+                            'link' => 'https://ar.pinterest.com/',
+                            'name' => 'Pinterest'
+                        ]
+                    ]
+                ],
                 'block' => [
                     'class' => 'g-social-header'
                 ]

@@ -83,7 +83,7 @@ legend small {
   line-height: 1.15;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
-  background: #4db2b3;
+  background: #594bb3;
   color: #ffffff;
   border: 1px solid transparent;
   border-radius: 2.5rem;
@@ -94,7 +94,7 @@ legend small {
   transition: all 0.2s;
 }
 .edit.item-page .btn-toolbar .btn:hover, .pager.pagenav a:hover, p.readmore .btn:hover, .contact .form-actions .btn:hover, #contact-form .controls .btn-primary.validate:hover, .profile .btn:hover, .login .btn:hover, .logout .btn:hover, .registration .btn:hover, .profile-edit .btn:hover, .remind .btn:hover, .reset .btn:hover, .search #searchForm .btn:hover, .search #search-form .btn:hover, .finder #searchForm .btn:hover, .finder #search-form .btn:hover, .edit.item-page .btn-toolbar .btn:active, .pager.pagenav a:active, p.readmore .btn:active, .contact .form-actions .btn:active, #contact-form .controls .btn-primary.validate:active, .profile .btn:active, .login .btn:active, .logout .btn:active, .registration .btn:active, .profile-edit .btn:active, .remind .btn:active, .reset .btn:active, .search #searchForm .btn:active, .search #search-form .btn:active, .finder #searchForm .btn:active, .finder #search-form .btn:active, .edit.item-page .btn-toolbar .btn:focus, .pager.pagenav a:focus, p.readmore .btn:focus, .contact .form-actions .btn:focus, #contact-form .controls .btn-primary.validate:focus, .profile .btn:focus, .login .btn:focus, .logout .btn:focus, .registration .btn:focus, .profile-edit .btn:focus, .remind .btn:focus, .reset .btn:focus, .search #searchForm .btn:focus, .search #search-form .btn:focus, .finder #searchForm .btn:focus, .finder #search-form .btn:focus {
-  background: #3d8f90;
+  background: #473c8f;
   color: #ffffff;
 }
 .edit.item-page .btn-toolbar .btn:disabled, .pager.pagenav a:disabled, p.readmore .btn:disabled, .contact .form-actions .btn:disabled, #contact-form .controls .btn-primary.validate:disabled, .profile .btn:disabled, .login .btn:disabled, .logout .btn:disabled, .registration .btn:disabled, .profile-edit .btn:disabled, .remind .btn:disabled, .reset .btn:disabled, .search #searchForm .btn:disabled, .search #search-form .btn:disabled, .finder #searchForm .btn:disabled, .finder #search-form .btn:disabled {
@@ -102,12 +102,12 @@ legend small {
   cursor: not-allowed;
 }
 .edit.item-page .btn-toolbar .btn:disabled:hover, .pager.pagenav a:disabled:hover, p.readmore .btn:disabled:hover, .contact .form-actions .btn:disabled:hover, #contact-form .controls .btn-primary.validate:disabled:hover, .profile .btn:disabled:hover, .login .btn:disabled:hover, .logout .btn:disabled:hover, .registration .btn:disabled:hover, .profile-edit .btn:disabled:hover, .remind .btn:disabled:hover, .reset .btn:disabled:hover, .search #searchForm .btn:disabled:hover, .search #search-form .btn:disabled:hover, .finder #searchForm .btn:disabled:hover, .finder #search-form .btn:disabled:hover {
-  background: #4db2b3;
+  background: #594bb3;
 }
 .btn {
   border-radius: 0.25rem;
   border: 0;
-  color: #424753;
+  color: #af0883;
   box-shadow: none;
 }
 .btn span {
@@ -124,7 +124,7 @@ legend small {
   line-height: 1.15;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
-  background: #4db2b3;
+  background: #594bb3;
   color: #ffffff;
   border: 1px solid transparent;
   vertical-align: middle;
@@ -132,11 +132,11 @@ legend small {
   transition: all 0.2s;
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-  background: #3d8f90;
+  background: #473c8f;
   color: #ffffff;
 }
 .btn-group > .btn.dropdown-toggle {
-  background: #e0e0e0;
+  background: #f0b3c5;
 }
 .btn-group.open .btn-primary.dropdown-toggle {
   background: #8f4dae;
@@ -146,7 +146,7 @@ legend small {
   background: #8f4dae;
 }
 .btn-link {
-  color: #4db2b3;
+  color: #594bb3;
 }
 table.table-bordered {
   border-collapse: separate;
@@ -240,7 +240,7 @@ blockquote {
   border-left: 5px solid #e0e0e5;
 }
 blockquote small {
-  color: #6f788c;
+  color: #f528bf;
 }
 blockquote.pull-right {
   border-right: 5px solid #e0e0e5;
@@ -253,7 +253,7 @@ pre.prettyprint {
   padding: 1rem !important;
 }
 legend {
-  color: #424753;
+  color: #af0883;
   font-family: "Lato", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
@@ -271,8 +271,8 @@ legend {
   border: 0;
 }
 textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
-  color: #424753;
-  background-color: #ffffff;
+  color: #af0883;
+  background-color: #fae6ec;
   border: 1px solid #e0e0e5;
   box-sizing: border-box !important;
   transition: border 0.2s linear, box-shadow 0.2s linear;
@@ -285,7 +285,7 @@ input[type="text"], input[type="password"], input[type="datetime"], input[type="
   height: 41px;
 }
 .input-prepend > .add-on, .input-append > .add-on {
-  background: #d9d9d9;
+  background: #eda6bc;
   border: 1px solid #e0e0e5;
   padding: 0.275rem;
   -webkit-padding-before: 7px;
@@ -312,8 +312,8 @@ textarea {
   margin-right: 180px;
 }
 select {
-  color: #424753;
-  background: #ffffff;
+  color: #af0883;
+  background: #fae6ec;
   border: 1px solid #e0e0e5;
 }
 .view-mailto, .body-only {
@@ -376,10 +376,10 @@ select {
 }
 .chzn-container .chzn-drop, .chzn-container .chzn-results li.no-results {
   border: 1px solid rgba(0, 0, 0, 0.1);
-  color: #424753;
+  color: #af0883;
 }
 .chzn-container-multi .chzn-choices {
-  color: #424753;
+  color: #af0883;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 6px;
   width: 250px;
@@ -390,7 +390,7 @@ select {
   height: 35px;
   margin: 0;
   padding: 0 5px;
-  color: #424753 !important;
+  color: #af0883 !important;
 }
 .tip-wrap {
   color: #fff;
@@ -590,8 +590,8 @@ a.thumbnail:hover, a.thumbnail:focus {
   font-size: 0.7rem;
   font-weight: 400;
   border-radius: 0.25rem;
-  color: #424753;
-  background: #e0e0e0;
+  color: #af0883;
+  background: #f0b3c5;
 }
 .moduletable .nav .nav-child {
   margin-top: 0.625rem;
@@ -642,7 +642,7 @@ a.thumbnail:hover, a.thumbnail:focus {
 }
 .moduletable #login-form .control-group .input-prepend .add-on [class^="icon-"], .moduletable #login-form .control-group .input-prepend .add-on [class*=" icon-"] {
   width: auto;
-  background: #4db2b3;
+  background: #594bb3;
   padding: 0.45rem 1rem;
   border-radius: 3px;
 }
@@ -681,14 +681,14 @@ a.thumbnail:hover, a.thumbnail:focus {
   margin: 0;
 }
 #g-offcanvas .moduletable .nav li.active, #g-offcanvas .moduletable .nav.menu li.active {
-  background: #409697;
+  background: #4b3f96;
 }
 #g-offcanvas .moduletable .nav li.active a, #g-offcanvas .moduletable .nav.menu li.active a {
   background-color: inherit;
   color: inherit;
 }
 #g-offcanvas .moduletable .nav li:hover, #g-offcanvas .moduletable .nav.menu li:hover {
-  background: #45a1a2;
+  background: #5043a1;
 }
 #g-offcanvas .moduletable .nav .nav-header, #g-offcanvas .moduletable .nav.menu .nav-header {
   margin: 0.625rem 0;
@@ -696,8 +696,8 @@ a.thumbnail:hover, a.thumbnail:focus {
   font-size: 0.7rem;
   font-weight: 400;
   border-radius: 0.25rem;
-  color: #424753;
-  background: #e0e0e0;
+  color: #af0883;
+  background: #f0b3c5;
 }
 #g-offcanvas .moduletable .nav .nav-child, #g-offcanvas .moduletable .nav.menu .nav-child {
   margin-top: 0.625rem;
@@ -714,7 +714,7 @@ dl.article-info dd {
   margin: 0;
   font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   text-transform: uppercase;
-  color: #424753;
+  color: #af0883;
   font-size: 0.85rem;
   line-height: 1.35;
 }
@@ -730,7 +730,7 @@ dl.article-info dd:not(:last-child):after {
   display: inline-block;
   font-weight: bold;
   margin-bottom: 1.25rem;
-  background: #ebebeb;
+  background: #f3c4d2;
   border-radius: 0.25rem;
   padding: 0.3126666667rem 0.938rem;
 }
@@ -772,7 +772,7 @@ dl.article-info dd:not(:last-child):after {
   top: -1rem;
 }
 .chzn-container-single .chzn-single, .chzn-container-active.chzn-with-drop .chzn-single {
-  background: #ffffff;
+  background: #fae6ec;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none;
   height: 40px;
@@ -854,7 +854,7 @@ dl.article-info dd:not(:last-child):after {
   margin-right: 0.625rem;
 }
 .search span.highlight, .finder span.highlight {
-  background-color: #e6e6e6;
+  background-color: #f2bccc;
 }
 .rokbox-content #login-form .input-prepend .input-small, .rokbox-content #login-form .input-append .input-small {
   width: 240px;
