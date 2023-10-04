@@ -40,6 +40,7 @@
     <positions>
         <position>aside</position>
         <position>debug</position>
+        <position>module-position</position>
         <position>sidebar</position>
     </positions>
 

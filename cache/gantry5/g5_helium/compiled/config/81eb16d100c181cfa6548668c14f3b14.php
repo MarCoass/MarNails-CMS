@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696384795,
-    'checksum' => '8172afd7c8b4baa81d70337ac1179fe0',
+    'timestamp' => 1696458666,
+    'checksum' => '2d2da6f446510df5ad46d20268d0bedd',
     'files' => [
         'templates/g5_helium/custom/config/_error' => [
             'index' => [
@@ -17,11 +17,27 @@ return [
         'templates/g5_helium/custom/config/default' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/default/index.yaml',
-                'modified' => 1696384769
+                'modified' => 1696454155
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/default/layout.yaml',
-                'modified' => 1696384769
+                'modified' => 1696454155
+            ],
+            'page/assets' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/assets.yaml',
+                'modified' => 1696385869
+            ],
+            'page/body' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/body.yaml',
+                'modified' => 1696385869
+            ],
+            'page/fontawesome' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/fontawesome.yaml',
+                'modified' => 1696385869
+            ],
+            'page/head' => [
+                'file' => 'templates/g5_helium/custom/config/default/page/head.yaml',
+                'modified' => 1696385869
             ]
         ],
         'templates/g5_helium/config/default' => [
@@ -399,10 +415,31 @@ return [
                 'body_bottom' => ''
             ],
             'fontawesome' => [
-                'enable' => 1,
+                'enable' => '1',
                 'version' => 'fa4',
-                'fa4_compatibility' => 1,
-                'content_compatibility' => 1
+                'fa4_compatibility' => '1',
+                'content_compatibility' => '1',
+                'html_css_import' => '',
+                'html_js_import' => ''
+            ],
+            'assets' => [
+                'favicon' => '',
+                'touchicon' => '',
+                'css' => [
+                    
+                ],
+                'javascript' => [
+                    
+                ]
+            ],
+            'head' => [
+                'meta' => [
+                    
+                ],
+                'head_bottom' => '',
+                'atoms' => [
+                    
+                ]
             ]
         ],
         'index' => [
