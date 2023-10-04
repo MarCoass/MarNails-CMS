@@ -1,17 +1,17 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696386708,
-    'checksum' => 'bda8ac6ac0b67aff82fecef224eff1ac',
+    'timestamp' => 1696386809,
+    'checksum' => '0fe6a69041428a3a510654fa5e789cfb',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696386595
+                'modified' => 1696386722
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696386595
+                'modified' => 1696386722
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
@@ -26,7 +26,7 @@ return [
     'data' => [
         'index' => [
             'name' => '12',
-            'timestamp' => 1696386595,
+            'timestamp' => 1696386722,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -270,6 +270,7 @@ return [
                         'css' => [
                             'class' => ''
                         ],
+                        'display' => 'icons_only',
                         'items' => [
                             0 => [
                                 'icon' => 'fa fa-twitter fa-fw',
@@ -284,12 +285,6 @@ return [
                                 'name' => 'Facebook'
                             ],
                             2 => [
-                                'icon' => 'fa fa-google-plus fa-fw',
-                                'text' => '',
-                                'link' => 'https://plus.google.com/+rockettheme',
-                                'name' => 'Google+'
-                            ],
-                            3 => [
                                 'icon' => 'fa fa-pinterest',
                                 'text' => 'Pinterest',
                                 'title' => 'Pinterest',
