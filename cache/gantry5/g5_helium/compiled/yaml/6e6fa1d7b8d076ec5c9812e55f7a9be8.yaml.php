@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/media/gantry5/engines/nucleus/particles/assets.yaml',
-    'modified' => 1696384661,
+    'modified' => 1696453784,
     'data' => [
         'name' => 'Custom CSS / JS',
         'description' => 'Configure custom CSS and Javascript.',

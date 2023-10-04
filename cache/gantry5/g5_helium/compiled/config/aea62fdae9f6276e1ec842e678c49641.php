@@ -1,77 +1,77 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696458665,
-    'checksum' => 'a165b83351340ff8768e530f3f31a693',
+    'timestamp' => 1696461546,
+    'checksum' => 'd7d3501ab9f688c771cbed40e042fc4f',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696458644
+                'modified' => 1696461541
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696458644
+                'modified' => 1696461541
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
-                'modified' => 1696385900
+                'modified' => 1696453786
             ],
             'styles' => [
                 'file' => 'templates/g5_helium/custom/config/12/styles.yaml',
-                'modified' => 1696386696
+                'modified' => 1696453786
             ]
         ],
         'templates/g5_helium/custom/config/default' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/default/index.yaml',
-                'modified' => 1696454155
+                'modified' => 1696461541
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/default/layout.yaml',
-                'modified' => 1696454155
+                'modified' => 1696461541
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/assets.yaml',
-                'modified' => 1696385869
+                'modified' => 1696453786
             ],
             'page/body' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/body.yaml',
-                'modified' => 1696385869
+                'modified' => 1696453786
             ],
             'page/fontawesome' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/fontawesome.yaml',
-                'modified' => 1696385869
+                'modified' => 1696453786
             ],
             'page/head' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/head.yaml',
-                'modified' => 1696385869
+                'modified' => 1696453786
             ]
         ],
         'templates/g5_helium/config/default' => [
             'page/body' => [
                 'file' => 'templates/g5_helium/config/default/page/body.yaml',
-                'modified' => 1696384672
+                'modified' => 1696453786
             ],
             'particles/branding' => [
                 'file' => 'templates/g5_helium/config/default/particles/branding.yaml',
-                'modified' => 1696384672
+                'modified' => 1696453786
             ],
             'particles/copyright' => [
                 'file' => 'templates/g5_helium/config/default/particles/copyright.yaml',
-                'modified' => 1696384672
+                'modified' => 1696453786
             ],
             'particles/logo' => [
                 'file' => 'templates/g5_helium/config/default/particles/logo.yaml',
-                'modified' => 1696384672
+                'modified' => 1696453786
             ],
             'particles/social' => [
                 'file' => 'templates/g5_helium/config/default/particles/social.yaml',
-                'modified' => 1696384672
+                'modified' => 1696453786
             ],
             'particles/totop' => [
                 'file' => 'templates/g5_helium/config/default/particles/totop.yaml',
-                'modified' => 1696384672
+                'modified' => 1696453786
             ]
         ]
     ],
