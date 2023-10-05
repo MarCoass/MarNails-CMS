@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/particles/owlcarousel.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696506988,
     'data' => [
         'name' => 'Owl Carousel',
         'description' => 'Display Owl Carousel.',

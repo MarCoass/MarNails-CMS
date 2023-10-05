@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/templates/g5_helium/blueprints/styles/above.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696506987,
     'data' => [
         'name' => 'Above Styles',
         'description' => 'Above section styles for the Helium theme',

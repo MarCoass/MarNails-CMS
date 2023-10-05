@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/media/gantry5/engines/nucleus/particles/branding.yaml',
-    'modified' => 1696453784,
+    'modified' => 1696506983,
     'data' => [
         'name' => 'Branding',
         'description' => 'Displays powered by link to Gantry Framework',

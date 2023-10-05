@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/media/gantry5/engines/nucleus/particles/spacer.yaml',
-    'modified' => 1696453784,
+    'modified' => 1696506983,
     'data' => [
         'name' => 'Spacer',
         'description' => 'Add empty column to the row.',

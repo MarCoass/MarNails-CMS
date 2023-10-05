@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/templates/g5_helium/blueprints/styles/intro.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696506987,
     'data' => [
         'name' => 'Intro Styles',
         'description' => 'Intro section styles for the Helium theme',

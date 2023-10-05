@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/media/gantry5/engines/nucleus/blueprints/page/body.yaml',
-    'modified' => 1696453784,
+    'modified' => 1696506983,
     'data' => [
         'name' => 'Body Attributes',
         'description' => 'Settings that can be applied to the page.',

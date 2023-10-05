@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/templates/g5_helium/gantry/theme.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696506988,
     'data' => [
         'details' => [
             'name' => 'Helium',

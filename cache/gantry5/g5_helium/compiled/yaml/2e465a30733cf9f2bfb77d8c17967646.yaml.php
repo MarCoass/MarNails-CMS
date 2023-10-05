@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/blueprints/styles/footer.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696506987,
     'data' => [
         'name' => 'Footer Styles',
         'description' => 'Footer section styles for the Helium theme',
