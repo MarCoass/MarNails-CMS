@@ -74,6 +74,7 @@ return [
 	'Joomla\\Module\\ArticlesArchive\\Site\\' => [JPATH_SITE . '/modules/mod_articles_archive/src'],
 	'Joomla\\Module\\ArticlesCategories\\Site\\' => [JPATH_SITE . '/modules/mod_articles_categories/src'],
 	'Joomla\\Module\\ArticlesCategory\\Site\\' => [JPATH_SITE . '/modules/mod_articles_category/src'],
+	'Joomla\\Module\\ArticlesFaq\\Site\\' => [JPATH_SITE . '/modules/mod_articles_faq/src'],
 	'Joomla\\Module\\ArticlesLatest\\Site\\' => [JPATH_SITE . '/modules/mod_articles_latest/src'],
 	'Joomla\\Module\\ArticlesNews\\Site\\' => [JPATH_SITE . '/modules/mod_articles_news/src'],
 	'Joomla\\Module\\ArticlesPopular\\Site\\' => [JPATH_SITE . '/modules/mod_articles_popular/src'],
