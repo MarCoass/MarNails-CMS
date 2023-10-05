@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/media/gantry5/engines/nucleus/particles/menu.yaml',
-    'modified' => 1696506983,
+    'modified' => 1696453784,
     'data' => [
         'name' => 'Menu',
         'description' => 'Gantry menu',

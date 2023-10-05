@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/blueprints/styles/base.yaml',
-    'modified' => 1696506987,
+    'modified' => 1696453786,
     'data' => [
         'name' => 'Base Styles',
         'description' => 'Base styles for the Helium theme',

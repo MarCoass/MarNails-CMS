@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/custom/config/12/layout.yaml',
-    'modified' => 1696513332,
+    'modified' => 1696544729,
     'data' => [
         'version' => 2,
         'preset' => [
