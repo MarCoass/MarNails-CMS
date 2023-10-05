@@ -1,17 +1,17 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696507490,
-    'checksum' => '856ccf6c46346d4541f990d54738c97e',
+    'timestamp' => 1696512990,
+    'checksum' => 'f2ac6a7e4335084f7d40df431966fa45',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696506987
+                'modified' => 1696512789
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696506987
+                'modified' => 1696512789
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
@@ -19,14 +19,14 @@ return [
             ],
             'styles' => [
                 'file' => 'templates/g5_helium/custom/config/12/styles.yaml',
-                'modified' => 1696506987
+                'modified' => 1696507663
             ]
         ]
     ],
     'data' => [
         'index' => [
             'name' => '12',
-            'timestamp' => 1696458644,
+            'timestamp' => 1696512789,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -73,6 +73,7 @@ return [
                     'position-position-3949' => 'Sidebar'
                 ],
                 'content' => [
+                    'system-content-6719' => 'Page Content',
                     'system-content-1587' => 'Page Content'
                 ],
                 'copyright' => [
@@ -119,7 +120,9 @@ return [
                     
                 ],
                 '/features/' => [
-                    
+                    0 => [
+                        0 => 'system-content-6719'
+                    ]
                 ],
                 '/utility/' => [
                     

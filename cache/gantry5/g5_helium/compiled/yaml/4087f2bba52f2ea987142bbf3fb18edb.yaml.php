@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/custom/config/12/layout.yaml',
-    'modified' => 1696506987,
+    'modified' => 1696513332,
     'data' => [
         'version' => 2,
         'preset' => [
@@ -30,7 +30,9 @@ return [
                 
             ],
             '/features/' => [
-                
+                0 => [
+                    0 => 'position-position-8598'
+                ]
             ],
             '/utility/' => [
                 
@@ -216,6 +218,12 @@ return [
                 'title' => 'Module Position',
                 'attributes' => [
                     'key' => 'module-position'
+                ]
+            ],
+            'position-position-8598' => [
+                'title' => 'Module Position',
+                'attributes' => [
+                    'key' => 'Features'
                 ]
             ],
             'position-position-4734' => [

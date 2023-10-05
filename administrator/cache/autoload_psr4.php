@@ -1,6 +1,7 @@
 <?php
 defined('_JEXEC') or die;
 return [
+	'IWSBY\\Module\\IwsbyWidgetPinterestBoard\\Site\\' => [JPATH_SITE . '/modules/mod_iwsby_widget_pinterest_board'],
 	'Joomla\\Component\\Actionlogs\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_actionlogs/src'],
 	'Joomla\\Component\\Admin\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_admin/src'],
 	'Joomla\\Component\\Associations\\Administrator\\' => [JPATH_ADMINISTRATOR . '/components/com_associations/src'],

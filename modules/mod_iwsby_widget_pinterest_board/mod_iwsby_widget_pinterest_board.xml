@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="4.0.0" client="site" method="upgrade">
+    <name>MOD_IWSBY_WIDGET_PINTEREST_BOARD</name>
+    <author>IWS.BY</author>
+    <creationDate>29.07.2023</creationDate>
+	<authorEmail>shop@iws.by</authorEmail>
+	<authorUrl>https://iws.by/</authorUrl>
+	<copyright>Copyright 2013-2023 IWS.BY</copyright>
+	<license>GNU GPL v3 or later, see LICENSE.txt</license>
+    <version>1.2.0</version>
+    <description>MOD_IWSBY_WIDGET_PINTEREST_BOARD_DESCRIPTION</description>
+    <namespace>IWSBY\Module\IwsbyWidgetPinterestBoard</namespace>
+    <scriptfile>script.php</scriptfile>
+
+    <files>
+        <filename module="mod_iwsby_widget_pinterest_board">mod_iwsby_widget_pinterest_board.php</filename>
+        <folder>Helper</folder>
+        <folder>models</folder>
+        <folder>tmpl</folder>
+        <folder>language</folder>
+        <filename>LICENSE.txt</filename>
+        <filename>mod_iwsby_widget_pinterest_board.xml</filename>
+    </files>
+
+    <changelogurl>https://update.iws.by/joomla4/modules/widgetpinterestboard/changelog.xml</changelogurl>
+
+    <updateservers>
+        <server type="extension" name="IWS.BY Widget Pinterest board" priority="1">https://update.iws.by/joomla4/modules/widgetpinterestboard/update.xml</server>
+    </updateservers>
+
+    <config>
+        <fields name="params">
+            <fieldset name="basic" addfieldpath="/modules/mod_iwsby_widget_pinterest_board/models/fields/">
+                <field
+                    type="note"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_INSTALL_INFO_NOTIFY"/>
+                <field
+					name="dlid"
+					type="DownloadID"
+					label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_UPDATE_ID_LABEL"
+                    hint="MOD_IWSBY_WIDGET_PINTEREST_BOARD_UPDATE_ID_HINT"
+					description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_UPDATE_ID_DECRIPTION"
+					key="dlid"/>
+                <field
+                    type="radio"
+                    name="add_api_script"
+                    class="btn-group btn-group-yesno"
+                    default="1"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_ADD_API_SCRIPT_LABEL"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_ADD_API_SCRIPT_DESCRIPTION">
+                    <option value="1">JYES</option>
+                    <option value="0">JNO</option>
+                </field>
+                <field
+                    type="list"
+                    name="widget_lang"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_LABEL"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_DESCRIPTION"
+                    default="0">
+                    <option value="0">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE1</option>
+                    <option value="en">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE2</option>
+                    <option value="cs">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE3</option>
+                    <option value="da">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE4</option>
+                    <option value="de">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE5</option>
+                    <option value="el">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE6</option>
+                    <option value="es">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE7</option>
+                    <option value="fi">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE8</option>
+                    <option value="fr">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE9</option>
+                    <option value="hi">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE10</option>
+                    <option value="hu">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE11</option>
+                    <option value="id">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE12</option>
+                    <option value="it">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE13</option>
+                    <option value="ja">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE14</option>
+                    <option value="ko">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE15</option>
+                    <option value="ms">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE16</option>
+                    <option value="nb">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE17</option>
+                    <option value="nl">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE18</option>
+                    <option value="pl">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE19</option>
+                    <option value="pt">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE20</option>
+                    <option value="pt-br">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE21</option>
+                    <option value="ro">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE22</option>
+                    <option value="ru">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE23</option>
+                    <option value="sk">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE24</option>
+                    <option value="sv">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE25</option>
+                    <option value="tl">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE26</option>
+                    <option value="th">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE27</option>
+                    <option value="tr">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE28</option>
+                    <option value="uk">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE29</option>
+                    <option value="vi">MOD_IWSBY_WIDGET_PINTEREST_BOARD_LANG_TYPE30</option>
+                </field>
+                <field
+                    name="board_url"
+                    type="url"
+                    default="https://www.pinterest.com/pinterest/official-news/"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_URL_LABEL"
+                    hint="MOD_IWSBY_WIDGET_PINTEREST_BOARD_URL_HINT"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_URL_DESCRIPTION"/>
+                <field
+                    type="list"
+                    name="widget_type"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_TYPE_LABEL"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_TYPE_DESCRIPTION"
+                    default="0">
+                    <option value="0">MOD_IWSBY_WIDGET_PINTEREST_BOARD_TYPE1</option>
+                    <option value="1">MOD_IWSBY_WIDGET_PINTEREST_BOARD_TYPE2</option>
+                    <option value="2">MOD_IWSBY_WIDGET_PINTEREST_BOARD_TYPE3</option>
+                    <option value="3">MOD_IWSBY_WIDGET_PINTEREST_BOARD_TYPE4</option>
+                </field>
+                <field
+                    name="image_width"
+                    type="number"
+                    default="115"
+                    showon="widget_type:3"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_IMAGE_WIDTH_LABEL"
+                    hint="MOD_IWSBY_WIDGET_PINTEREST_BOARD_IMAGE_WIDTH_HINT"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_IMAGE_WIDTH_DESCRIPTION"/>
+                <field
+                    name="board_height"
+                    type="number"
+                    default="120"
+                    showon="widget_type:3"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_HEIGHT_LABEL"
+                    hint="MOD_IWSBY_WIDGET_PINTEREST_BOARD_HEIGHT_HINT"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_HEIGHT_DESCRIPTION"/>
+                <field
+                    name="board_width"
+                    type="number"
+                    default="900"
+                    showon="widget_type:3"
+                    label="MOD_IWSBY_WIDGET_PINTEREST_BOARD_WIDTH_LABEL"
+                    hint="MOD_IWSBY_WIDGET_PINTEREST_BOARD_WIDTH_HINT"
+                    description="MOD_IWSBY_WIDGET_PINTEREST_BOARD_WIDTH_DESCRIPTION"/>
+            </fieldset>
+        </fields>
+    </config>
+</extension>

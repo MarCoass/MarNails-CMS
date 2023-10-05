@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/media/gantry5/engines/nucleus/admin/blueprints/layout/block.yaml',
-    'modified' => 1696384661,
+    'modified' => 1696506983,
     'data' => [
         'name' => 'Block',
         'description' => 'Layout block.',

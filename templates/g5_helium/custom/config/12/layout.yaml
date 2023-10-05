@@ -15,7 +15,9 @@ layout:
     -
       - position-position-5243
   /intro/: {  }
-  /features/: {  }
+  /features/:
+    -
+      - position-position-8598
   /utility/: {  }
   /above/: {  }
   /testimonials/: {  }
@@ -136,6 +138,10 @@ content:
     title: 'Module Position'
     attributes:
       key: module-position
+  position-position-8598:
+    title: 'Module Position'
+    attributes:
+      key: Features
   position-position-4734:
     title: Aside
     attributes:

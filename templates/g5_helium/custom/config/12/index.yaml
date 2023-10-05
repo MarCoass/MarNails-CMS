@@ -1,5 +1,5 @@
 name: '12'
-timestamp: 1696458644
+timestamp: 1696513332
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -7,6 +7,7 @@ preset:
   timestamp: 1696384672
 positions:
   module-position: 'Module Position'
+  Features: 'Module Position'
   aside: Aside
   sidebar: Sidebar
 sections:
@@ -35,6 +36,7 @@ particles:
     social-3171: Social
   position:
     position-position-5243: 'Module Position'
+    position-position-8598: 'Module Position'
     position-position-4734: Aside
     position-position-3949: Sidebar
   content:

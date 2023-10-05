@@ -1,69 +1,69 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696385876,
-    'checksum' => 'aa023412ec29f1458f20c3e7ede0421b',
+    'timestamp' => 1696512985,
+    'checksum' => '26f149cd55d25b04dc0e0b1a3947d5f3',
     'files' => [
         'templates/g5_helium/custom/config/13' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/13/index.yaml',
-                'modified' => 1696384769
+                'modified' => 1696512783
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/13/layout.yaml',
-                'modified' => 1696384769
+                'modified' => 1696506987
             ]
         ],
         'templates/g5_helium/custom/config/default' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/default/index.yaml',
-                'modified' => 1696384769
+                'modified' => 1696512782
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/default/layout.yaml',
-                'modified' => 1696384769
+                'modified' => 1696506987
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/assets.yaml',
-                'modified' => 1696385869
+                'modified' => 1696506987
             ],
             'page/body' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/body.yaml',
-                'modified' => 1696385869
+                'modified' => 1696506987
             ],
             'page/fontawesome' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/fontawesome.yaml',
-                'modified' => 1696385869
+                'modified' => 1696506987
             ],
             'page/head' => [
                 'file' => 'templates/g5_helium/custom/config/default/page/head.yaml',
-                'modified' => 1696385869
+                'modified' => 1696506987
             ]
         ],
         'templates/g5_helium/config/default' => [
             'page/body' => [
                 'file' => 'templates/g5_helium/config/default/page/body.yaml',
-                'modified' => 1696384672
+                'modified' => 1696506987
             ],
             'particles/branding' => [
                 'file' => 'templates/g5_helium/config/default/particles/branding.yaml',
-                'modified' => 1696384672
+                'modified' => 1696506987
             ],
             'particles/copyright' => [
                 'file' => 'templates/g5_helium/config/default/particles/copyright.yaml',
-                'modified' => 1696384672
+                'modified' => 1696506987
             ],
             'particles/logo' => [
                 'file' => 'templates/g5_helium/config/default/particles/logo.yaml',
-                'modified' => 1696384672
+                'modified' => 1696506987
             ],
             'particles/social' => [
                 'file' => 'templates/g5_helium/config/default/particles/social.yaml',
-                'modified' => 1696384672
+                'modified' => 1696506987
             ],
             'particles/totop' => [
                 'file' => 'templates/g5_helium/config/default/particles/totop.yaml',
-                'modified' => 1696384672
+                'modified' => 1696506987
             ]
         ]
     ],
@@ -444,7 +444,7 @@ return [
         ],
         'index' => [
             'name' => 13,
-            'timestamp' => 1696384769,
+            'timestamp' => 1696506987,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',

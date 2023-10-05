@@ -38,6 +38,7 @@
     </files>
 
     <positions>
+        <position>Features</position>
         <position>aside</position>
         <position>debug</position>
         <position>module-position</position>

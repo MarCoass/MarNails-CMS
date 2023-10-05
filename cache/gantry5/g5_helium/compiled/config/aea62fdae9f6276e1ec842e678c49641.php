@@ -1,17 +1,17 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledConfig',
-    'timestamp' => 1696507663,
-    'checksum' => '220d300d7a25f49548672b915a4f1a8c',
+    'timestamp' => 1696513376,
+    'checksum' => 'd5eb2e061b7ffeb1f15a448ec8d3de3b',
     'files' => [
         'templates/g5_helium/custom/config/12' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/12/index.yaml',
-                'modified' => 1696506987
+                'modified' => 1696513332
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/12/layout.yaml',
-                'modified' => 1696506987
+                'modified' => 1696513332
             ],
             'page/assets' => [
                 'file' => 'templates/g5_helium/custom/config/12/page/assets.yaml',
@@ -19,13 +19,13 @@ return [
             ],
             'styles' => [
                 'file' => 'templates/g5_helium/custom/config/12/styles.yaml',
-                'modified' => 1696507663
+                'modified' => 1696513005
             ]
         ],
         'templates/g5_helium/custom/config/default' => [
             'index' => [
                 'file' => 'templates/g5_helium/custom/config/default/index.yaml',
-                'modified' => 1696506987
+                'modified' => 1696512782
             ],
             'layout' => [
                 'file' => 'templates/g5_helium/custom/config/default/layout.yaml',
@@ -453,7 +453,7 @@ return [
         ],
         'index' => [
             'name' => '12',
-            'timestamp' => 1696458644,
+            'timestamp' => 1696513332,
             'version' => 7,
             'preset' => [
                 'image' => 'gantry-admin://images/layouts/default.png',
@@ -462,6 +462,7 @@ return [
             ],
             'positions' => [
                 'module-position' => 'Module Position',
+                'Features' => 'Module Position',
                 'aside' => 'Aside',
                 'sidebar' => 'Sidebar'
             ],
@@ -496,6 +497,7 @@ return [
                 ],
                 'position' => [
                     'position-position-5243' => 'Module Position',
+                    'position-position-8598' => 'Module Position',
                     'position-position-4734' => 'Aside',
                     'position-position-3949' => 'Sidebar'
                 ],
@@ -546,7 +548,9 @@ return [
                     
                 ],
                 '/features/' => [
-                    
+                    0 => [
+                        0 => 'position-position-8598'
+                    ]
                 ],
                 '/utility/' => [
                     
@@ -732,6 +736,12 @@ return [
                     'title' => 'Module Position',
                     'attributes' => [
                         'key' => 'module-position'
+                    ]
+                ],
+                'position-position-8598' => [
+                    'title' => 'Module Position',
+                    'attributes' => [
+                        'key' => 'Features'
                     ]
                 ],
                 'position-position-4734' => [
