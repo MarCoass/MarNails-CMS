@@ -1,7 +1,7 @@
 <?php
 return [
     '@class' => 'Gantry\\Component\\Config\\CompiledBlueprints',
-    'timestamp' => 1696544853,
+    'timestamp' => 1696553803,
     'checksum' => 'b714c0627fe620732662f782ceead402',
     'files' => [
         'templates/g5_helium/particles' => [

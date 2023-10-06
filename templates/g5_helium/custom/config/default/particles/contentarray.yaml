@@ -1,0 +1,30 @@
+enabled: '0'
+article:
+  display:
+    image:
+      enabled: full
+    text:
+      type: full
+      limit: ''
+      formatting: text
+      prepare: '0'
+    edit: '0'
+    title:
+      enabled: show
+      limit: ''
+    date:
+      enabled: ''
+      format: 'l, F d, Y'
+    read_more:
+      enabled: ''
+      label: ''
+      css: ''
+    author:
+      enabled: ''
+    category:
+      enabled: ''
+    hits:
+      enabled: ''
+css:
+  class: ''
+extra: {  }

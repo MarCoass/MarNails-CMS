@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/templates/g5_helium/custom/config/13/index.yaml',
-    'modified' => 1696512783,
+    'modified' => 1696552476,
     'data' => [
         'name' => 13,
-        'timestamp' => 1696506987,
+        'timestamp' => 1696552476,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
@@ -49,8 +49,8 @@ return [
                 'system-messages-6473' => 'System Messages'
             ],
             'logo' => [
-                'logo-7461' => 'Logo / Image',
-                'logo-8509' => 'Logo / Image'
+                'logo-2402' => 'Logo / Image',
+                'logo-6068' => 'Logo / Image'
             ],
             'menu' => [
                 'menu-3723' => 'Menu'
@@ -77,10 +77,10 @@ return [
                 'footer' => 'footer',
                 'offcanvas' => 'offcanvas',
                 'system-messages-6473' => 'system-messages-7972',
-                'logo-7461' => 'logo-9608',
+                'logo-2402' => 'logo-9608',
                 'menu-3723' => 'menu-6409',
                 'social-7213' => 'social-3171',
-                'logo-8509' => 'logo-9571',
+                'logo-6068' => 'logo-5540',
                 'copyright-4738' => 'copyright-1736',
                 'horizontalmenu-6125' => 'horizontalmenu-9034',
                 'totop-5917' => 'totop-8670',

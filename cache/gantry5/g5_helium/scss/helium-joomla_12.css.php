@@ -1,7 +1,7 @@
 <?php
 return [
     'file' => 'gantry-theme://css-compiled/helium-joomla_12.css',
-    'timestamp' => 1696544859,
+    'timestamp' => 1696553996,
     'md5' => '4b0fd1d6b0af08dc3251ba9bea055537',
     'variables' => [
         'above-background' => '#f4f5f7',

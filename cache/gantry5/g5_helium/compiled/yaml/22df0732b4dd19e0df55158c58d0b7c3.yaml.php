@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/media/gantry5/engines/nucleus/particles/content.yaml',
-    'modified' => 1696506983,
+    'modified' => 1696453784,
     'data' => [
         'name' => 'Page Content',
         'description' => 'Display the main page content in the layout.',

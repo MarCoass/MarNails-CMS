@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/templates/g5_helium/particles/contenttabs.yaml',
-    'modified' => 1696384672,
+    'modified' => 1696453786,
     'data' => [
         'name' => 'Content Tabs',
         'description' => 'Displays Content Tabs.',
