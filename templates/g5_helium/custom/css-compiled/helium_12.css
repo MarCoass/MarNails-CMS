@@ -59,7 +59,7 @@ textarea, select[multiple=multiple], input[type="color"], input[type="date"], in
   font-family: "rockettheme-apps";
   font-style: normal;
   font-weight: normal;
-  src: url('../../fonts/rockettheme-apps/rockettheme-apps.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/rockettheme-apps/rockettheme-apps.woff2?651cc6a0') format("woff2"), url('../../fonts/rockettheme-apps/rockettheme-apps.woff?651cc6a0') format("woff"), url('../../fonts/rockettheme-apps/rockettheme-apps.ttf?651cc6a0') format("truetype"), url('../../fonts/rockettheme-apps/rockettheme-apps.svg?651cc6a0#rockettheme-apps') format("svg");
+  src: url('../../fonts/rockettheme-apps/rockettheme-apps.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/rockettheme-apps/rockettheme-apps.woff2?651dd49a') format("woff2"), url('../../fonts/rockettheme-apps/rockettheme-apps.woff?651dd49a') format("woff"), url('../../fonts/rockettheme-apps/rockettheme-apps.ttf?651dd49a') format("truetype"), url('../../fonts/rockettheme-apps/rockettheme-apps.svg?651dd49a#rockettheme-apps') format("svg");
 }
 i.fa-grav-spaceman, i.fa-grav-text, i.fa-grav-full, i.fa-grav-logo, i.fa-grav-symbol, i.fa-grav-logo-both, i.fa-grav-both, i.fa-gantry, i.fa-gantry-logo, i.fa-gantry-symbol, i.fa-gantry-logo-both, i.fa-gantry-both {
   font-family: "rockettheme-apps";
@@ -141,61 +141,61 @@ a:hover {
   font-family: "raleway";
   font-style: normal;
   font-weight: 900;
-  src: url('../../fonts/raleway/raleway-black/raleway-black-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.woff?651cc6a0') format("woff"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.svg?651cc6a0#raleway') format("svg");
+  src: url('../../fonts/raleway/raleway-black/raleway-black-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.woff?651dd49a') format("woff"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/raleway/raleway-black/raleway-black-webfont.svg?651dd49a#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 700;
-  src: url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.woff?651cc6a0') format("woff"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.svg?651cc6a0#raleway') format("svg");
+  src: url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.woff?651dd49a') format("woff"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/raleway/raleway-bold/raleway-bold-webfont.svg?651dd49a#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 600;
-  src: url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff?651cc6a0') format("woff"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg?651cc6a0#raleway') format("svg");
+  src: url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.woff?651dd49a') format("woff"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/raleway/raleway-semibold/raleway-semibold-webfont.svg?651dd49a#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 500;
-  src: url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.woff?651cc6a0') format("woff"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.svg?651cc6a0#raleway') format("svg");
+  src: url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.woff?651dd49a') format("woff"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/raleway/raleway-medium/raleway-medium-webfont.svg?651dd49a#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 400;
-  src: url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.woff?651cc6a0') format("woff"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.svg?651cc6a0#raleway') format("svg");
+  src: url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.woff?651dd49a') format("woff"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/raleway/raleway-regular/raleway-regular-webfont.svg?651dd49a#raleway') format("svg");
 }
 @font-face {
   font-family: "raleway";
   font-style: normal;
   font-weight: 200;
-  src: url('../../fonts/raleway/raleway-light/raleway-light-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.woff?651cc6a0') format("woff"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.svg?651cc6a0#raleway') format("svg");
+  src: url('../../fonts/raleway/raleway-light/raleway-light-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.woff?651dd49a') format("woff"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/raleway/raleway-light/raleway-light-webfont.svg?651dd49a#raleway') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 900;
-  src: url('../../fonts/lato/lato-black/lato-black-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-black/lato-black-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/lato/lato-black/lato-black-webfont.woff?651cc6a0') format("woff"), url('../../fonts/lato/lato-black/lato-black-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/lato/lato-black/lato-black-webfont.svg?651cc6a0#lato') format("svg");
+  src: url('../../fonts/lato/lato-black/lato-black-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-black/lato-black-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/lato/lato-black/lato-black-webfont.woff?651dd49a') format("woff"), url('../../fonts/lato/lato-black/lato-black-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/lato/lato-black/lato-black-webfont.svg?651dd49a#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 700;
-  src: url('../../fonts/lato/lato-bold/lato-bold-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-bold/lato-bold-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/lato/lato-bold/lato-bold-webfont.woff?651cc6a0') format("woff"), url('../../fonts/lato/lato-bold/lato-bold-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/lato/lato-bold/lato-bold-webfont.svg?651cc6a0#lato') format("svg");
+  src: url('../../fonts/lato/lato-bold/lato-bold-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-bold/lato-bold-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/lato/lato-bold/lato-bold-webfont.woff?651dd49a') format("woff"), url('../../fonts/lato/lato-bold/lato-bold-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/lato/lato-bold/lato-bold-webfont.svg?651dd49a#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 400;
-  src: url('../../fonts/lato/lato-regular/lato-regular-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-regular/lato-regular-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/lato/lato-regular/lato-regular-webfont.woff?651cc6a0') format("woff"), url('../../fonts/lato/lato-regular/lato-regular-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/lato/lato-regular/lato-regular-webfont.svg?651cc6a0#lato') format("svg");
+  src: url('../../fonts/lato/lato-regular/lato-regular-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-regular/lato-regular-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/lato/lato-regular/lato-regular-webfont.woff?651dd49a') format("woff"), url('../../fonts/lato/lato-regular/lato-regular-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/lato/lato-regular/lato-regular-webfont.svg?651dd49a#lato') format("svg");
 }
 @font-face {
   font-family: "lato";
   font-style: normal;
   font-weight: 200;
-  src: url('../../fonts/lato/lato-light/lato-light-webfont.eot?651cc6a0#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-light/lato-light-webfont.woff2?651cc6a0') format("woff2"), url('../../fonts/lato/lato-light/lato-light-webfont.woff?651cc6a0') format("woff"), url('../../fonts/lato/lato-light/lato-light-webfont.ttf?651cc6a0') format("truetype"), url('../../fonts/lato/lato-light/lato-light-webfont.svg?651cc6a0#lato') format("svg");
+  src: url('../../fonts/lato/lato-light/lato-light-webfont.eot?651dd49a#iefix') format("embedded-opentype"), url('../../fonts/lato/lato-light/lato-light-webfont.woff2?651dd49a') format("woff2"), url('../../fonts/lato/lato-light/lato-light-webfont.woff?651dd49a') format("woff"), url('../../fonts/lato/lato-light/lato-light-webfont.ttf?651dd49a') format("truetype"), url('../../fonts/lato/lato-light/lato-light-webfont.svg?651dd49a#lato') format("svg");
 }
 body {
   font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
@@ -958,7 +958,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background-image: url('../../images/header/img01.jpg?651cc6a0');
+  background-image: url('../../images/header/img01.jpg?651dd49a');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1333,7 +1333,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   padding: 3rem 0;
   position: relative;
   z-index: 10;
-  background: url('../../images/testimonials/img01.jpg?651cc6a0') no-repeat center top;
+  background: url('../../images/testimonials/img01.jpg?651dd49a') no-repeat center top;
   background-size: cover;
 }
 #g-testimonials:before {
