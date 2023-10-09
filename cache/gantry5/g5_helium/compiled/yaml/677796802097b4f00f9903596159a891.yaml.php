@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/MarNails-CMS/templates/g5_helium/custom/config/_body_only/index.yaml',
-    'modified' => 1696546451,
+    'modified' => 1696872370,
     'data' => [
         'name' => '_body_only',
-        'timestamp' => 1696453786,
+        'timestamp' => 1696384672,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/body-only.png',

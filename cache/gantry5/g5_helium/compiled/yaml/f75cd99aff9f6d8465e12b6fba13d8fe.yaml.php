@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/particles/horizontalmenu.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696384672,
     'data' => [
         'name' => 'Horizontal Menu',
         'description' => 'Display horizontal menu.',

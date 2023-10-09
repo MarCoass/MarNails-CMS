@@ -8,8 +8,8 @@ layout:
     -
       - system-messages-7972
     -
-      - 'logo-9608 15'
-      - 'menu-6409 65'
+      - 'logo-9608 10'
+      - 'menu-6409 70'
       - 'social-3171 20'
   /header/:
     -

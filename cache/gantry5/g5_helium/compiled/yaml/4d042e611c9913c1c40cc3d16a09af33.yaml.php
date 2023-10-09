@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/media/gantry5/engines/nucleus/particles/lightcase.yaml',
-    'modified' => 1696453784,
+    'modified' => 1696384661,
     'data' => [
         'name' => 'Lightcase',
         'description' => 'Flexible and responsive Lightbox Plugin.',

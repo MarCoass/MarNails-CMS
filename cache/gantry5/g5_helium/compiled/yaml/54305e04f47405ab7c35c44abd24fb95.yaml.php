@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/blueprints/styles/features.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696384672,
     'data' => [
         'name' => 'Features Styles',
         'description' => 'Features section styles for the Helium theme',

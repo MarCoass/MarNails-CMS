@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => 'C:\\xampp\\htdocs\\MarNails-CMS/templates/g5_helium/custom/config/default/page/fontawesome.yaml',
-    'modified' => 1696453786,
+    'modified' => 1696385869,
     'data' => [
         'enable' => '1',
         'version' => 'fa4',
